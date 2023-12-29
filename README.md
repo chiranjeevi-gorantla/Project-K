@@ -12,6 +12,10 @@
 1. Connect
 2. Scheduler
 
+## Figma
+
+https://www.figma.com/file/bAWN8MItN0FgGtgrdKBZ9Y/Project-K?type=design&node-id=0-1&mode=design&t=tVT0wzdJZns3PY1g-0 
+
 ## UseCase
 
 -
